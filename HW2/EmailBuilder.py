@@ -1,15 +1,13 @@
-
 def build_email(firstname, lastname, entry_year):
-    email = firstname[0:1] + lastname + entry_year[2:4] + '@KU.EDU.TR'
-    email = email.upper()
-    entry_year_int = int(entry_year)
-    if str.isalpha(firstname) and str.isalpha(lastname):
-        if entry_year_int >= 2001 and str.isdigit(entry_year):
-            return email
-    else:
+    
+    if firstname.isalpha()==False or lastname.isalpha()==False:
         return '-1'
-    if not entry_year_int >= 2001 and str.isdigit(entry_year):
-        return '-2'
+    elif entry_year.isdigit() == False or int(entry_year)<2001:
+        return '-2' 
+    else:
+        email=firstname[0].upper()+lastname.upper()+entry_year[-2:]+'@KU.EDU.TR'
+        
+    return email 
        
 def main():
     
