@@ -1,0 +1,206 @@
+Farmhouse,1800,1967
+Mid-terrace house,1870,2000
+Mid-terrace house,1850,1999
+Corner house,1850,1994
+Mid-terrace house,1850,1992
+Mid-terrace house,1850,1996
+Mid-terrace house,1800,2008
+Duplex,1890,2016
+Single dwelling,1840,2015
+Mid-terrace house,1800,2008
+Multiple dwelling,1820,1995
+Mid-terrace house,1886,2000
+Mid-terrace house,1895,2003
+Mid-terrace house,1880,1997
+Mid-terrace house,1721,1999
+Duplex,1701,2017
+Multiple dwelling,1850,1994
+Mid-terrace house,1857,2017
+Mid-terrace house,1890,2000
+Corner house,1850,1995
+Mid-terrace house,1853,2015
+Mid-terrace house,1876,2016
+Duplex,1730,1994
+Mid-terrace house,1848,1995
+Corner house,1829,1994
+Single dwelling,1898,2018
+Multiple dwelling,1898,2000
+Corner house,1869,1950
+Mid-terrace house,1890,1970
+Corner house,1833,2000
+Mid-terrace house,1890,2002
+Mid-terrace house,1886,2000
+Mid-terrace house,1894,1995
+Single dwelling,1850,2019
+Farmhouse,1898,2000
+Mid-terrace house,1850,2011
+Mid-terrace house,1800,2015
+Multiple dwelling,1888,2000
+Mid-terrace house,1890,2015
+Duplex,1833,2016
+Duplex,1599,2019
+Duplex,1890,2011
+Mid-terrace house,1700,2006
+Multiple dwelling,1877,2019
+Duplex,1892,2000
+Duplex,1850,2017
+Mid-terrace house,1848,1999
+Duplex,1866,2009
+Single dwelling,1714,2016
+Mid-terrace house,1800,1995
+Mid-terrace house,1800,1981
+Mid-terrace house,1577,1970
+Mid-terrace house,1750,2009
+Mid-terrace house,1800,2006
+Duplex,1897,2016
+Mid-terrace house,1600,2018
+Mid-terrace house,1890,1970
+Duplex,1830,2010
+Corner house,1850,2000
+Duplex,1884,1994
+Single dwelling,1891,2017
+Duplex,1743,2019
+Mid-terrace house,1840,1976
+Corner house,1890,2014
+Mid-terrace house,1850,2019
+Farmhouse,1876,2008
+Mid-terrace house,1850,2015
+Mid-terrace house,1896,2012
+Duplex,1800,2018
+Duplex,1650,1970
+Bungalow,1870,2010
+Mid-terrace house,1800,2014
+Mid-terrace house,1896,2004
+Duplex,1890,2018
+Farmhouse,1680,2017
+Duplex,1890,2011
+Farmhouse,1895,2018
+Duplex,1821,2000
+Mid-terrace house,1892,2018
+Mid-terrace house,1898,2019
+Duplex,1847,2018
+Mid-terrace house,1898,2020
+Mid-terrace house,1715,2013
+Mid-terrace house,1867,2014
+Corner house,1870,2018
+Farmhouse,1708,2017
+Mid-terrace house,1870,1996
+Duplex,1620,2016
+Mid-terrace house,1826,2003
+Mid-terrace house,1823,2020
+Duplex,1426,1979
+Multiple dwelling,1895,1993
+Duplex,1836,2000
+Duplex,1850,2006
+Single dwelling,1880,2018
+Duplex,1818,1999
+Residential property,1800,2016
+Single dwelling,1840,1996
+Mid-terrace house,1870,2014
+Mid-terrace house,1890,2020
+Corner house,1868,2009
+Residential property,1850,2008
+Duplex,1890,2010
+Duplex,1822,2011
+Mid-terrace house,1899,2020
+Mid-terrace house,1605,2016
+Mid-terrace house,1606,2016
+Mid-terrace house,1895,1989
+Duplex,1873,2018
+Mid-terrace house,1850,2015
+Bungalow,1751,1992
+Single dwelling,1750,1974
+Mid-terrace house,1854,1998
+Mid-terrace house,1860,2016
+Mid-terrace house,1721,2013
+Duplex,1899,2000
+Duplex,1895,2017
+Mid-terrace house,1879,2015
+Mid-terrace house,1886,2019
+Mid-terrace house,1890,2005
+Corner house,1882,2000
+Duplex,1890,2017
+Duplex,1830,2018
+Residential property,1840,2010
+Duplex,1870,2003
+Duplex,1800,2016
+Mid-terrace house,1820,1985
+Duplex,1889,2013
+Corner house,1750,1980
+Mid-terrace house,1880,2015
+Duplex,1890,2017
+Duplex,1840,2000
+Mid-terrace house,1895,2016
+Duplex,1890,2001
+Duplex,1800,2004
+Mid-terrace house,1852,2010
+Mid-terrace house,1890,2018
+Mid-terrace house,1780,2007
+Mid-terrace house,1880,2001
+Corner house,1780,2016
+Mid-terrace house,1750,2010
+Multiple dwelling,1860,1985
+Single dwelling,1784,1995
+Duplex,1720,2014
+Residential property,1811,2018
+Duplex,1858,2002
+Duplex,1726,2018
+Duplex,1868,2019
+Residential property,1802,2013
+Duplex,1778,2013
+Mid-terrace house,1895,2019
+Duplex,1809,2015
+Duplex,1809,2015
+Residential property,1850,2002
+Duplex,1750,1960
+Mid-terrace house,1850,1996
+Corner house,1781,2010
+Residential property,1873,2009
+Mid-terrace house,1890,2015
+Mid-terrace house,1890,2013
+Villa,1898,2009
+Corner house,1880,2000
+Mid-terrace house,1850,2010
+Duplex,1893,2019
+Mid-terrace house,1888,2020
+Duplex,1837,2015
+Mid-terrace house,1840,2004
+Mid-terrace house,1876,1986
+Mid-terrace house,1850,2014
+Duplex,1885,2010
+Villa,1892,2010
+Duplex,1878,2014
+Duplex,1870,2008
+Mid-terrace house,1720,2010
+Single dwelling,1700,2008
+Duplex,1896,2016
+Mid-terrace house,1855,1985
+Mid-terrace house,1890,2016
+Duplex,1880,2018
+Bungalow,1761,2017
+Corner house,1890,2019
+Duplex,1715,2017
+Duplex,1895,2012
+Duplex,1896,2016
+Duplex,1860,2017
+Mid-terrace house,1862,2018
+Mid-terrace house,1786,2008
+Corner house,1854,2015
+Residential property,1854,2015
+Duplex,1750,2019
+Duplex,1749,2020
+Duplex,1856,2011
+Duplex,1893,2019
+Duplex,1727,1988
+Mid-terrace house,1895,1997
+Mid-terrace house,1895,1997
+Residential property,1870,2003
+Duplex,1569,2011
+Duplex,1569,2011
+Duplex,1500,2014
+Duplex,1890,1993
+Mid-terrace house,1872,2011
+Villa,1891,2007
+Bungalow,1822,2016
+Villa,1890,2012
+Bungalow,1890,2018

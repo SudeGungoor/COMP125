@@ -1,0 +1,103 @@
+Sex-Age-Hypertension-Heart Disease-Residence Type-Glucose-Smoking Status
+M-58-1-0-Urban-87.96-never smoked
+F-70-0-0-Rural-69.04-formerly smoked
+M-14-0-0-Rural-161.28-Unknown
+F-47-0-0-Urban-210.95-Unknown
+F-52-0-0-Urban-77.59-formerly smoked
+F-75-0-1-Rural-243.53-never smoked
+F-32-0-0-Rural-77.67-smokes
+F-74-1-0-Urban-205.84-never smoked
+F-79-0-0-Urban-77.08-Unknown
+M-79-0-1-Urban-57.08-formerly smoked
+F-37-0-0-Rural-162.96-never smoked
+F-37-0-0-Rural-73.5-formerly smoked
+F-40-0-0-Rural-95.04-never smoked
+M-35-0-0-Rural-85.37-never smoked
+F-20-0-0-Urban-84.62-smokes
+F-42-0-0-Rural-82.67-never smoked
+F-44-0-0-Urban-57.33-smokes
+F-79-0-1-Urban-67.84-smokes
+F-65-1-0-Rural-75.7-Unknown
+F-57-1-0-Rural-129.54-smokes
+F-49-0-0-Rural-60.22-smokes
+M-71-0-0-Urban-198.21-formerly smoked
+F-59-0-0-Urban-109.82-never smoked
+F-25-0-0-Urban-60.84-never smoked
+F-67-0-0-Rural-94.61-smokes
+F-38-0-0-Rural-97.49-never smoked
+F-54-0-0-Rural-206.72-never smoked
+F-70-0-0-Rural-214.45-never smoked
+M-27-0-0-Urban-82.9-Unknown
+F-47-0-0-Urban-103.26-Unknown
+M-58-1-0-Urban-55.78-smokes
+F-58-0-0-Urban-149.75-Unknown
+M-14-0-0-Urban-82.34-Unknown
+F-32-0-0-Rural-62.6-formerly smoked
+F-23-0-0-Urban-94.09-never smoked
+F-55-0-0-Urban-55.42-Unknown
+F-17-0-0-Urban-82.18-Unknown
+M-59-0-0-Urban-117.92-smokes
+M-13-0-0-Urban-114.84-Unknown
+F-16-0-0-Rural-110.63-Unknown
+M-67-0-0-Urban-190.7-formerly smoked
+F-22-0-0-Rural-79.81-Unknown
+F-45-0-0-Urban-113.63-smokes
+F-66-0-0-Rural-141.24-never smoked
+M-58-1-0-Rural-56.96-smokes
+M-69-0-0-Rural-203.04-never smoked
+F-58-0-0-Rural-94.3-Unknown
+F-53-0-0-Urban-81.51-Unknown
+F-78-0-0-Urban-137.74-formerly smoked
+M-44-0-0-Rural-81.84-never smoked
+M-66-0-0-Rural-242.3-smokes
+M-27-0-0-Rural-102.64-smokes
+M-43-0-0-Urban-146.01-smokes
+F-13-0-0-Urban-75.42-Unknown
+M-51-0-0-Urban-220.49-Unknown
+F-30-0-0-Urban-61.45-smokes
+M-46-0-0-Rural-88.19-formerly smoked
+F-43-0-0-Rural-115.22-Unknown
+F-79-0-0-Urban-97.93-Unknown
+F-27-0-0-Rural-85.6-Unknown
+F-38-0-0-Rural-79.83-smokes
+F-78-1-0-Urban-218.46-never smoked
+M-57-0-1-Rural-62.2-formerly smoked
+M-61-0-0-Urban-69.15-formerly smoked
+M-22-0-0-Rural-103.56-Unknown
+M-11-0-0-Rural-79.03-Unknown
+F-22-0-0-Urban-69.94-Unknown
+M-53-0-0-Rural-90.12-Unknown
+M-27-0-0-Urban-95.1-formerly smoked
+M-76-0-0-Rural-234.58-formerly smoked
+F-57-1-0-Rural-235.85-never smoked
+F-21-0-0-Rural-89.44-smokes
+F-18-0-0-Rural-111.38-smokes
+F-78-0-0-Urban-243.5-never smoked
+F-78-1-0-Urban-182.2-formerly smoked
+M-33-0-0-Urban-229.92-smokes
+F-52-0-0-Urban-82.24-formerly smoked
+F-51-0-0-Rural-89.84-Unknown
+M-11-0-0-Rural-90.69-Unknown
+F-48-0-0-Urban-84.38-Unknown
+F-82-0-1-Urban-215.6-never smoked
+F-54-0-0-Rural-91.61-never smoked
+F-49-0-0-Rural-138.16-never smoked
+F-24-0-0-Urban-75.23-never smoked
+F-37-0-0-Rural-75.18-formerly smoked
+M-34-0-1-Urban-106.23-formerly smoked
+M-64-0-0-Urban-239.64-formerly smoked
+F-66-0-0-Urban-58.95-never smoked
+F-23-0-0-Urban-99.92-never smoked
+M-68-0-0-Rural-116.23-never smoked
+F-55-0-0-Urban-118.82-formerly smoked
+F-25-0-0-Rural-66.3-never smoked
+F-48-0-0-Urban-101.41-smokes
+M-43-0-0-Urban-86.78-smokes
+F-36-0-0-Rural-126.82-never smoked
+M-52-0-0-Urban-78.4-never smoked
+F-29-0-0-Urban-63.69-smokes
+F-76-1-0-Urban-209.58-never smoked
+F-39-0-0-Rural-89.86-never smoked
+M-76-0-0-Rural-110.99-formerly smoked
+M-34-0-0-Urban-137.96-Unknown
+F-72-0-0-Rural-210.78-formerly smoked
